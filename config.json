@@ -25,6 +25,5 @@
   "torch_dtype": "bfloat16",
   "transformers_version": "4.40.1",
   "use_cache": true,
-  "device": "cpu",
   "vocab_size": 49152
 }
