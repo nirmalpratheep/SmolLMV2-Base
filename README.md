@@ -7,7 +7,7 @@ This project aims to reverse engineer the [SmolLMv2](https://huggingface.co/Hugg
 - Implement a causal Transformer decoder from scratch, mimicking SmolLMv2.
 - Reproduce the model's configuration.
 - Compare the reconstructed model with SmolLMv2's model card.
-- Techniques used - RoPE,KV grouping in Attention
+- Techniques used - RoPE,Grouped Query Attention (GQA) 
   
 ## 📁 Directory Structure
 ```
